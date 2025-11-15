@@ -10,8 +10,6 @@
 
 <img width="617" height="302" alt="image" src="https://github.com/user-attachments/assets/57f6df73-fd36-4db5-aa66-b5de6980a990" />
 
-<img width="395" height="294" alt="image" src="https://github.com/user-attachments/assets/0efce910-10a3-40dd-9202-5508af765c5a" />
-
 Для записи на тестдрайв нужно перейти на страницу "Тестдрайв" с формой записи
 
 <img width="395" height="294" alt="image" src="https://github.com/user-attachments/assets/2fc87781-7fda-44a4-bbbc-06d531557fc0" />
@@ -19,3 +17,4 @@
 После заполнения формы и её отправки новая запись появитя на главной страницы
 
 ### РУКОВОДСТВО ПРОГРАММИСТА
+
